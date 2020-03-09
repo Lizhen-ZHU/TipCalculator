@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TipCalculator</string>
+    <string name="album_description1">Amount</string>
+    <string name="album_description2">Tax Percentage</string>
+    <string name="notify_me">Work from home</string>
+    <string name="album_description3">Tip Percentage</string>
+    <string name="btn2">SUBMIT</string>
+    <string name="text1">HI</string>
+    <string name="text2">What are you doing</string>
+</resources>
